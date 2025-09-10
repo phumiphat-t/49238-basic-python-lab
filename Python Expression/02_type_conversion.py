@@ -1,0 +1,6 @@
+wi = input("Length = ")
+hi = input("height = ")
+w1 = float(wi)
+h1 = float(hi)
+a = (w1*h1)
+print((a))
